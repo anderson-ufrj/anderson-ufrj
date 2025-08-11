@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Anderson Henrique
+# Hi, I'm Anderson Henrique
 
 **AI/ML Engineer | Python Systems Developer**
 

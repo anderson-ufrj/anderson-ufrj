@@ -1,191 +1,118 @@
-<div align="center">
-  
-# Hi, I'm Anderson Henrique
+# Anderson Henrique
 
-**Senior Python Engineer | MLOps & AI Systems Architect**
+**Python Engineer | AI Systems Developer**
 
-*Transforming complex data into scalable production systems*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/neural-thinker)
-[![Email](https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonhs27@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFAE00?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/neural-thinker)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andersonhs27@gmail.com)
 
 ---
 
-## 🎯 **Professional Summary**
+## About
 
-Senior engineer with **3+ years** building high-performance Python systems and **3+ years** specializing in AI/ML infrastructure. Proven track record of delivering scalable solutions that reduce costs, improve performance, and drive business value.
+**3+ years** building Python systems with **2+ years** specializing in AI/ML infrastructure. Computer Science background with focus on production-ready applications, API optimization, and multi-agent system design.
 
-**🎓 Education**: Computer Science • **📍 Location**: Minas Gerais, Brazil • **🌍 Availability**: Remote worldwide
-
----
-
-## 💼 **Core Expertise**
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🐍 **Backend Development**
-- **FastAPI** • **Django** • **Flask**
-- Async/await patterns
-- RESTful API design
-- Authentication & security
-- Database optimization
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 **AI/ML Engineering**
-- **LangChain** • **HuggingFace**
-- Custom RAG pipelines
-- Vector databases (ChromaDB, FAISS)
-- Model deployment & monitoring
-- Prompt engineering
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ **Infrastructure & DevOps**
-- **Docker** • **Kubernetes**
-- CI/CD with GitHub Actions
-- **Prometheus** • **Grafana**
-- AWS services
-- Performance monitoring
-
-</td>
-</tr>
-</table>
+**Location**: Minas Gerais, Brazil • **Remote**: Available worldwide • **Languages**: PT-BR, EN
 
 ---
 
-## 📊 **Impact & Results**
+## Technical Expertise
 
-<div align="center">
+**Backend Development**
+- Python (FastAPI, Django), async/await patterns
+- PostgreSQL optimization, Redis caching strategies
+- RESTful API design, JWT authentication
+- Docker multi-stage builds, container orchestration
 
-| 🎯 **Achievement** | 📈 **Metric** | ⚡ **Technical Solution** |
-|:---|:---:|:---|
-| **API Performance** | **73%** latency reduction | Async processing + Redis caching |
-| **System Throughput** | **10k+** requests/hour | Horizontal scaling + load balancing |
-| **Cost Optimization** | **$8k/month** savings | In-house model vs external APIs |
-| **System Reliability** | **99.7%** uptime | Comprehensive monitoring stack |
+**AI/ML Integration**
+- LangChain orchestration, custom RAG pipelines
+- Vector databases (ChromaDB, FAISS), semantic search
+- HuggingFace Transformers, prompt engineering
+- Anomaly detection (Isolation Forest, DBSCAN)
 
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-### 🤖 **Multi-Agent AI Platform**
-> Production system for automated data analysis and anomaly detection
-
-**Tech Stack**: `FastAPI` `LangChain` `PostgreSQL` `Redis` `Docker`
-
-- 📊 Processes **50k+ documents** daily
-- 👥 Supports **200+ concurrent users**
-- 🔍 **97% accuracy** in anomaly detection
-- ⚡ Sub-second query response times
-
-**🚀 Live Demo**: [API Documentation](https://neural-thinker-cidadao-ai-backend.hf.space/docs) | [GitHub Repository](https://github.com/anderson-ufrj/cidadao.ai-backend)
+**Infrastructure**
+- Docker/Kubernetes deployment, CI/CD pipelines
+- Prometheus/Grafana monitoring, structured logging
+- AWS services, HuggingFace Spaces deployment
 
 ---
 
-### 📈 **Enterprise Analytics Dashboard**
-> Interactive business intelligence platform with real-time insights
+## Impact Metrics
 
-**Tech Stack**: `Next.js` `TypeScript` `Python APIs` `WebSocket`
-
-- 📉 Reduced manual reporting by **80%**
-- 🔄 Real-time data synchronization
-- 📱 Fully responsive design
-- 🎨 Modern, intuitive interface
-
----
-
-## 🛠 **Technical Stack**
-
-<div align="center">
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-2D3748?style=flat-square&logo=python&logoColor=white)
-
-### **Infrastructure & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### **AI/ML Platforms**
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFAE00?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-2D3748?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-</div>
+| Achievement | Result | Implementation |
+|-------------|--------|----------------|
+| API Latency | 73% reduction (2.3s → 620ms) | Async handlers + Redis caching layer |
+| System Throughput | 10k+ requests/hour | Horizontal scaling + load balancing |
+| Operational Cost | $8k/month reduction | In-house model deployment vs external APIs |
+| Anomaly Detection | 94% relevance score | Multi-model ensemble + threshold tuning |
 
 ---
 
-## 📈 **GitHub Analytics**
+## Featured Project: Cidadão.AI
 
-<div align="center">
+**Multi-agent system for Brazilian public data analysis**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-ufrj&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ufrj&layout=compact&theme=dark&hide_border=true)
+```python
+# Core architecture
+async def orchestrate_agents(task: AnalysisTask) -> Result:
+    async with asyncio.TaskGroup() as tg:
+        anomaly_task = tg.create_task(zumbi_agent.detect(task.data))
+        analysis_task = tg.create_task(anita_agent.analyze(task.contracts))
+    return await self.synthesize([anomaly_task.result(), analysis_task.result()])
+```
 
-</div>
+**Technical Stack**: FastAPI 0.109+ • LangChain 0.1+ • PostgreSQL 16 • Redis 7 • ChromaDB
 
----
+**Production Metrics**:
+- 17 specialized agents processing government transparency data
+- FastAPI backend with <500ms p95 response time  
+- Vector search across 1M+ document embeddings
+- JWT auth + rate limiting + comprehensive audit logging
 
-## ⚡ **Quick Connect**
-
-<div align="center">
-
-🟢 **Status**: Available for new opportunities  
-⏰ **Response time**: Usually within 24h  
-🌍 **Timezone**: UTC-3 (Brazil) • **Languages**: PT-BR, EN  
-💼 **Interested in**: Senior Python roles, AI Engineering, Technical Leadership
-
-</div>
-
----
-
-## 💡 **What I Bring to Your Team**
-
-- 🎯 **Results-driven approach** with focus on measurable business impact
-- 🚀 **End-to-end ownership** from design to production deployment
-- 📚 **Continuous learning** mindset, staying current with latest technologies
-- 🌍 **Remote collaboration** experience with international teams
-- 🔧 **Problem-solving** expertise in complex technical challenges
+**Live System**: 
+- [API Documentation](https://neural-thinker-cidadao-ai-backend.hf.space/docs)
+- [Source Code](https://github.com/anderson-ufrj/cidadao.ai-backend)
+- [HuggingFace Space](https://huggingface.co/spaces/neural-thinker/cidadao.ai-backend)
 
 ---
 
-## 📬 **Let's Connect**
+## Engineering Philosophy
 
-<div align="center">
-
-**Ready to discuss your next project!**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
-[![GitHub](https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
-[![HuggingFace](https://img.shields.io/badge/Live%20Demos-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/neural-thinker)
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonhs27@gmail.com)
+- **Production-first**: Every feature designed for observability and maintenance
+- **Performance-focused**: Measure twice, optimize once - always with benchmarks
+- **Security-conscious**: Authentication, rate limiting, and audit trails as foundation
+- **Pragmatic choices**: Technology decisions based on requirements, not trends
 
 ---
 
-*"Building reliable, scalable systems that solve real business problems"*
+## Selected Projects
 
-⭐ **Available for remote opportunities worldwide** ⭐
+**[Cidadão.AI Backend](https://github.com/anderson-ufrj/cidadao.ai-backend)**
+Multi-agent system with 17 specialized AI agents, FastAPI async architecture, comprehensive monitoring
 
-</div>
+**[Frontend Dashboard](https://github.com/anderson-ufrj/cidadao.ai-frontend)** 
+Next.js 15 + TypeScript interface with real-time WebSocket connections, internationalization
+
+**[Documentation Hub](https://github.com/anderson-ufrj/cidadao.ai-docs)**
+Technical documentation with interactive agent showcase, accessibility compliance
+
+---
+
+## Technical Environment
+
+**Languages**: Python 3.11+, JavaScript/TypeScript, SQL, Bash  
+**Frameworks**: FastAPI, LangChain, Next.js, React  
+**Databases**: PostgreSQL, Redis, ChromaDB  
+**Infrastructure**: Docker, Kubernetes, AWS, GitHub Actions  
+**Monitoring**: Prometheus, Grafana, OpenTelemetry
+
+---
+
+## Current Focus
+
+Building cost-effective LLM inference pipelines and expanding multi-agent coordination capabilities. Open to opportunities in AI infrastructure, backend systems, and technical leadership roles.
+
+---
+
+*Minas Gerais, Brazil • Available for remote collaboration*

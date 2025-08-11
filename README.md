@@ -174,7 +174,10 @@ async def orchestrate_agents(task: AnalysisTask) -> Result:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL_16-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis_7-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat-square&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFAE00?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/-BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![BERTimbau](https://img.shields.io/badge/-BERTimbau-009639?style=flat-square&logo=brazil&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### **Infrastructure & DevOps**

@@ -130,16 +130,15 @@ async def orchestrate_agents(task: AnalysisTask) -> Result:
 
 ## 🧠 **Engineering Philosophy**
 
-<div align="center">
+*Bachelor's in Philosophy + Computer Science (in progress) shapes how I build systems:*
 
-| 🎯 **Principle** | 💡 **Implementation** |
-|:---|:---|
-| **Production-First** | Every feature designed for observability and maintenance |
-| **Performance-Focused** | Measure twice, optimize once - always with benchmarks |
-| **Security-Conscious** | Authentication, rate limiting, audit trails as foundation |
-| **Pragmatic Choices** | Technology decisions based on requirements, not trends |
+**Code as Applied Ethics**: When handling public data, every design decision has moral weight. Privacy and transparency aren't features - they're foundations.
 
-</div>
+**Dialectical Development**: Thesis (requirement) → Antithesis (constraints) → Synthesis (elegant solution). Every sprint is a philosophical dialogue with the problem.
+
+**Epistemology in Practice**: Code is crystallized knowledge. Good documentation isn't just helpful - it's how we share understanding across time and teams.
+
+**First Principles Thinking**: Before optimizing, understand why something exists. The best performance improvement is often eliminating unnecessary complexity.
 
 ---
 

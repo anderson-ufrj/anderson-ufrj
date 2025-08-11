@@ -189,18 +189,6 @@ async def orchestrate_agents(task: AnalysisTask) -> Result:
 
 ---
 
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-ufrj&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ufrj&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🔥 **Current Focus**
 
 Building **cost-effective LLM inference pipelines** and expanding **multi-agent coordination capabilities**. 

@@ -85,7 +85,7 @@
 
 🎓 **Computer Science Thesis Project** 🎓  
 *Currently being developed under supervision of*  
-**Prof. Dr. Aracele Garcia de Oliveira Fassbinder**  
+**Ph.D. Aracele Garcia de Oliveira Fassbinder**  
 *IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais*
 
 </div>
@@ -120,8 +120,9 @@ async def orchestrate_agents(task: AnalysisTask) -> Result:
 
 [![API Docs](https://img.shields.io/badge/API-Documentation-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://neural-thinker-cidadao-ai-backend.hf.space/docs)
 [![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-ufrj/cidadao.ai-backend)
+[![Tech Docs](https://img.shields.io/badge/Technical-Documentation-FF4785?style=for-the-badge&logo=readthedocs&logoColor=white)](https://anderson-ufrj.github.io/cidadao.ai-backend/docs/intro)
 [![HF Space](https://img.shields.io/badge/HuggingFace-Space-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/neural-thinker/cidadao.ai-backend)
-[![Documentation](https://img.shields.io/badge/Technical-Hub-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anderson-ufrj.github.io/cidadao.ai-docs/)
+[![Documentation](https://img.shields.io/badge/Project-Hub-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anderson-ufrj.github.io/cidadao.ai-docs/)
 
 </div>
 

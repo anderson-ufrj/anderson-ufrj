@@ -1,6 +1,6 @@
 # Anderson Henrique
 
-**Python Engineer | AI Systems Developer**
+**AI/ML Engineer | Python Systems Developer**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
@@ -94,7 +94,7 @@ Multi-agent system with 17 specialized AI agents, FastAPI async architecture, co
 **[Frontend Dashboard](https://github.com/anderson-ufrj/cidadao.ai-frontend)** 
 Next.js 15 + TypeScript interface with real-time WebSocket connections, internationalization
 
-**[Documentation Hub](https://github.com/anderson-ufrj/cidadao.ai-docs)**
+**[Documentation Hub](https://anderson-ufrj.github.io/cidadao.ai-docs/)**
 Technical documentation with interactive agent showcase, accessibility compliance
 
 ---

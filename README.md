@@ -79,8 +79,16 @@
 
 ## 🤖 **Featured Project: Cidadão.AI**
 
-> **Multi-agent system for Brazilian government transparency analysis**  
-> *Currently being developed as my Computer Science thesis project under supervision of Prof. Dr. Aracele Garcia de Oliveira Fassbinder at IFSULDEMINAS*
+### **Multi-agent system for Brazilian government transparency analysis**
+
+<div align="center">
+
+🎓 **Computer Science Thesis Project** 🎓  
+*Currently being developed under supervision of*  
+**Prof. Dr. Aracele Garcia de Oliveira Fassbinder**  
+*IFSULDEMINAS - Instituto Federal do Sul de Minas Gerais*
+
+</div>
 
 <div align="center">
 

@@ -19,7 +19,7 @@
 
 **3+ years** building production Python systems with **2+ years** specializing in AI/ML infrastructure. Computer Science background with proven expertise in multi-agent systems, API optimization, and scalable ML deployments.
 
-**📍 Location**: Minas Gerais, Brazil • **🌍 Remote**: Available worldwide • **🗣️ Languages**: PT-BR, EN
+**📍 Location**: Minas Gerais, Brazil • **🌍 Remote**: Available worldwide • **🗣️ Languages**: PT (Native), EN (Fluent), ES (Advanced), 中文 (Basic)
 
 ---
 

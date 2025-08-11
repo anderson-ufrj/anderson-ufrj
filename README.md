@@ -137,6 +137,30 @@ Senior engineer with **3+ years** building high-performance Python systems and *
 
 ---
 
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderson-ufrj&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ufrj&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ **Quick Connect**
+
+<div align="center">
+
+🟢 **Status**: Available for new opportunities  
+⏰ **Response time**: Usually within 24h  
+🌍 **Timezone**: UTC-3 (Brazil) • **Languages**: PT-BR, EN  
+💼 **Interested in**: Senior Python roles, AI Engineering, Technical Leadership
+
+</div>
+
+---
+
 ## 💡 **What I Bring to Your Team**
 
 - 🎯 **Results-driven approach** with focus on measurable business impact
@@ -151,7 +175,7 @@ Senior engineer with **3+ years** building high-performance Python systems and *
 
 <div align="center">
 
-**🎯 Currently seeking**: Senior Python Engineer • MLOps Engineer • AI Engineering • Technical Leadership roles
+**Ready to discuss your next project!**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
 [![GitHub](https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-ufrj)

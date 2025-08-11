@@ -156,7 +156,7 @@ Senior engineer with **5+ years** building high-performance Python systems and *
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
 [![GitHub](https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
 [![HuggingFace](https://img.shields.io/badge/Live%20Demos-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/neural-thinker)
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonhs27@gmail.com)
 
 ---
 

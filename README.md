@@ -17,7 +17,7 @@
 
 ## 🎯 **Professional Summary**
 
-Senior engineer with **5+ years** building high-performance Python systems and **3+ years** specializing in AI/ML infrastructure. Proven track record of delivering scalable solutions that reduce costs, improve performance, and drive business value.
+Senior engineer with **3+ years** building high-performance Python systems and **3+ years** specializing in AI/ML infrastructure. Proven track record of delivering scalable solutions that reduce costs, improve performance, and drive business value.
 
 **🎓 Education**: Computer Science • **📍 Location**: Minas Gerais, Brazil • **🌍 Availability**: Remote worldwide
 

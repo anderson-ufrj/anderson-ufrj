@@ -2,7 +2,7 @@
 
 # Hi, I'm Anderson Henrique
 
-**AI/ML Engineer | Python Systems Developer**
+**AI Systems Engineer | LLMs, RAG & MLOps**
 
 *Building intelligent systems that solve real-world problems*
 

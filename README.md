@@ -60,20 +60,6 @@
 </tr>
 </table>
 
----
-
-## 📊 **Measurable Impact**
-
-<div align="center">
-
-| 🎯 **Achievement** | 📈 **Metric** | ⚡ **Technical Implementation** |
-|:---|:---:|:---|
-| **API Performance** | **73%** latency reduction | Async handlers + Redis caching layer |
-| **System Throughput** | **10k+** requests/hour | Horizontal scaling + load balancing |
-| **Cost Optimization** | **$8k/month** reduction | In-house model vs external APIs |
-| **ML Accuracy** | **94%** relevance score | Multi-model ensemble + threshold tuning |
-
-</div>
 
 ---
 

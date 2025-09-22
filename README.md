@@ -9,7 +9,7 @@
 
 ## About
 
-3+ years building Python systems, specialized in AI/ML infrastructure. Currently developing multi-agent systems for government transparency analysis as my Computer Science thesis project.
+Building Python systems, specialized in AI/ML infrastructure. Currently developing multi-agent systems for government transparency analysis as my Computer Science thesis project.
 
 📍 Brazil • 🌍 Remote • 🗣️ PT/EN/ES
 

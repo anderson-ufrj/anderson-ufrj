@@ -28,7 +28,7 @@ Multi-agent system analyzing Brazilian government transparency data.
 - **1M+ document embeddings** with semantic search
 - **Production deployment** on HuggingFace Spaces with Kubernetes
 
-**Links:** [Live API](https://neural-thinker-cidadao-ai-backend.hf.space/docs) • [Source](https://github.com/anderson-ufrj/cidadao.ai-backend) • [Documentation](https://anderson-ufrj.github.io/cidadao.ai-docs/)
+**Links:** [Hub](https://cidadao-ai-hub.vercel.app/pt) • [Web App](https://cidadao-ai-frontend.vercel.app/pt) • [API](https://neural-thinker-cidadao-ai-backend.hf.space/docs) • [Source](https://github.com/anderson-ufrj/cidadao.ai-backend)
 
 ## Recent Work
 

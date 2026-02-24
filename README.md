@@ -8,7 +8,7 @@ I think in systems -- from data ingestion to the end user, from the philosophica
 
 ## Systems in Production
 
-### [Cidadao.AI](https://cidadao-ai-frontend.vercel.app) -- Government Transparency Platform
+### [Cidadão.AI](https://cidadao-ai-frontend.vercel.app) -- Government Transparency Platform
 
 A multi-agent system for public spending oversight. Twenty operational AI agents, each named after a Brazilian historical figure -- Zumbi investigates anomalies, Tiradentes generates reports, Machado analyzes text, Obaluaie detects corruption patterns. The system integrates 30+ federal and state transparency APIs into a unified intelligence layer.
 
@@ -28,7 +28,7 @@ INPI Registration: BR512025004322-8 | Thesis grade: 10/10
 
 ### [NTS Lab](https://neuralthinkers.up.railway.app) -- Multi-Product Monorepo
 
-A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipocrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`).
+A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipócrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`).
 
 `Next.js 15` `TypeScript` `Turborepo` `Supabase` `Tailwind` `Docker`
 
@@ -46,7 +46,7 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 ## Writing
 
 **Papers** (Zenodo, 2025)
-1. [*Cidadao.AI: Sistema Multi-Agente de IA para Democratizacao do Acesso a Dados de Transparencia Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
+1. [*Cidadão.AI: Sistema Multi-Agente de IA para Democratização do Acesso a Dados de Transparência Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
 2. [*The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming*](https://doi.org/10.5281/zenodo.18111064)
 3. [*From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts*](https://doi.org/10.5281/zenodo.18012186)
 

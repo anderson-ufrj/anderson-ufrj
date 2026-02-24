@@ -1,46 +1,62 @@
-# Anderson Henrique
+# Anderson Henrique da Silva
 
-**AI Systems Engineer | Building production-ready LLM applications**
+AI Systems Engineer. Philosophy before code, systems before features.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-h-silva95/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anderson-ufrj)
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFAE00?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/neural-thinker)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andersonhs27@gmail.com)
-
-## About
-
-Building Python systems, specialized in AI/ML infrastructure. Currently developing multi-agent systems for government transparency analysis as my Computer Science thesis project.
-
-📍 Brazil • 🌍 Remote • 🗣️ PT/EN/ES
-
-## Tech Stack
-
-**Backend:** Python • FastAPI • PostgreSQL • Redis • Docker • Kubernetes  
-**AI/ML:** LangChain • RAG • ChromaDB • HuggingFace • Vector Search  
-**Frontend:** TypeScript • Next.js • React
-
-## Featured: Cidadão.AI
-
-Multi-agent system analyzing Brazilian government transparency data.
-
-- **17 specialized AI agents** processing government contracts and public spending
-- **<500ms p95 response** with async FastAPI architecture  
-- **1M+ document embeddings** with semantic search
-- **Production deployment** on HuggingFace Spaces with Kubernetes
-
-**Links:** [Hub](https://cidadao-ai-hub.vercel.app/pt) • [Web App](https://cidadao-ai-frontend.vercel.app/pt) • [API](https://neural-thinker-cidadao-ai-backend.hf.space/docs) • [Source](https://github.com/anderson-ufrj/cidadao.ai-backend)
-
-## Recent Work
-
-- Built async multi-agent orchestration reducing processing time by 70%
-- Implemented RAG pipeline handling 50k+ documents daily
-- Deployed production ML systems with 99.7% uptime
-- Created comprehensive monitoring with Prometheus/Grafana
-
-## What I'm Looking For
-
-Opportunities in AI infrastructure, backend systems, and MLOps where I can build scalable solutions that solve real problems.
+I think in systems -- from data ingestion to the end user, from the philosophical question to the running inference. I studied Philosophy at UFRJ before Computer Science -- I learned to think before I learned to build. The interesting problems in AI live at the seam between what a machine can parse and what a citizen needs to understand. AI is a component in that architecture, not the point of it.
 
 ---
 
-*Building intelligent systems that bridge complex AI and practical solutions*
+## Systems in Production
+
+### [Cidadao.AI](https://cidadao-ai-frontend.vercel.app) -- Government Transparency Platform
+
+A multi-agent system for public spending oversight. Twenty operational AI agents, each named after a Brazilian historical figure -- Zumbi investigates anomalies, Tiradentes generates reports, Machado analyzes text, Obaluaie detects corruption patterns. The system integrates 30+ federal and state transparency APIs into a unified intelligence layer.
+
+INPI Registration: BR512025004322-8 | Thesis grade: 10/10
+
+| Metric | Value |
+|--------|-------|
+| Agents | 20 operational + 2 base frameworks |
+| Endpoints | 376 |
+| Tests | 2,451 across 170 files |
+| Codebase | 151K lines of Python |
+| p95 latency | < 180ms |
+
+`FastAPI` `LangChain` `FAISS` `BERTimbau` `PostgreSQL` `Redis` `Railway` `Prometheus` `Grafana`
+
+[API Docs](https://cidadao-api-production.up.railway.app/docs)
+
+### [NTS Lab](https://neuralthinkers.up.railway.app) -- Multi-Product Monorepo
+
+A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipocrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`).
+
+`Next.js 15` `TypeScript` `Turborepo` `Supabase` `Tailwind` `Docker`
+
+---
+
+## Open Source Contributions
+
+- **[langchain-maritaca](https://pypi.org/project/langchain-maritaca/)** -- First LangChain integration for Maritaca AI (Brazilian LLM). Published on PyPI.
+- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Tutorial contribution. [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
+- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Cache observability hooks. [PR #1960](https://github.com/jxnl/instructor/pull/1960)
+- **[mcp-brasil](https://github.com/anderson-ufrj/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
+
+---
+
+## Writing
+
+**Papers** (Zenodo, 2025)
+1. [*Cidadao.AI: Sistema Multi-Agente de IA para Democratizacao do Acesso a Dados de Transparencia Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
+2. [*The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming*](https://doi.org/10.5281/zenodo.18111064)
+3. [*From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts*](https://doi.org/10.5281/zenodo.18012186)
+
+**Blog** -- [neuralthinkers.up.railway.app/pt/blog](https://neuralthinkers.up.railway.app/pt/blog)
+Ten articles at the intersection of philosophy, AI engineering, and Brazilian public policy. Speaker at UaiSINT 2025.
+
+---
+
+## Links
+
+[Website](https://neuralthinkers.up.railway.app) | [Blog](https://neuralthinkers.up.railway.app/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | andersonhs27@gmail.com
+
+Minas Gerais, Brazil -- GMT-3 -- Available for remote work.

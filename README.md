@@ -37,8 +37,8 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 ## Open Source Contributions
 
 - **[langchain-maritaca](https://pypi.org/project/langchain-maritaca/)** -- First LangChain integration for Maritaca AI (Brazilian LLM). Published on PyPI.
-- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Tutorial contribution. [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
-- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Cache observability hooks. [PR #1960](https://github.com/jxnl/instructor/pull/1960)
+- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Submitted tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124) (under review)
+- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Proposed cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960) (under review)
 - **[mcp-brasil](https://github.com/anderson-ufrj/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
 
 ---

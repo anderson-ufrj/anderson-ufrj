@@ -45,7 +45,7 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 
 ## Writing & Talks
 
-**Speaker at UaiSINT 2025** -- Minas Gerais regional symposium on information security and technology.
+**Speaker at UaiSINT 2025**
 
 **Papers** (Zenodo, 2025)
 1. [*Cidadão.AI: Sistema Multi-Agente de IA para Democratização do Acesso a Dados de Transparência Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
@@ -70,4 +70,4 @@ Ten articles on philosophy, AI engineering, and Brazilian public policy.
 
 [Website](https://neuralthinkers.up.railway.app) | [Blog](https://neuralthinkers.up.railway.app/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | [Email](mailto:andersonhs27@gmail.com)
 
-Minas Gerais, Brazil -- GMT-3 -- Available for remote work.
+Minas Gerais, Brazil.

@@ -2,7 +2,7 @@
 
 AI Systems Engineer. Philosophy before code, systems before features.
 
-I think in systems -- from data ingestion to the end user, from the philosophical question to the running inference. I studied Philosophy at UFRJ before Computer Science -- I learned to think before I learned to build. The interesting problems in AI live at the seam between what a machine can parse and what a citizen needs to understand. AI is a component in that architecture, not the point of it.
+I studied Philosophy at UFRJ before Computer Science -- I learned to think before I learned to build. The interesting problems in AI live at the seam between what a machine can parse and what a citizen needs to understand.
 
 ---
 
@@ -28,7 +28,7 @@ INPI Registration: BR512025004322-8 | Thesis grade: 10/10
 
 ### [NTS Lab](https://neuralthinkers.up.railway.app) -- Multi-Product Monorepo
 
-A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipócrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`).
+A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipócrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`). The point isn't four products -- it's one architecture that generalizes across healthcare, legal, and municipal domains.
 
 `Next.js 15` `TypeScript` `Turborepo` `Supabase` `Tailwind` `Docker`
 
@@ -37,13 +37,15 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 ## Open Source Contributions
 
 - **[langchain-maritaca](https://pypi.org/project/langchain-maritaca/)** -- First LangChain integration for Maritaca AI (Brazilian LLM). Published on PyPI.
-- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Submitted tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124) (under review)
-- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Proposed cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960) (under review)
+- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Proposed tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
+- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Proposed cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960)
 - **[mcp-brasil](https://github.com/anderson-ufrj/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
 
 ---
 
-## Writing
+## Writing & Talks
+
+**Speaker at UaiSINT 2025** -- Minas Gerais regional symposium on information security and technology.
 
 **Papers** (Zenodo, 2025)
 1. [*Cidadão.AI: Sistema Multi-Agente de IA para Democratização do Acesso a Dados de Transparência Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
@@ -51,12 +53,21 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 3. [*From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts*](https://doi.org/10.5281/zenodo.18012186)
 
 **Blog** -- [neuralthinkers.up.railway.app/pt/blog](https://neuralthinkers.up.railway.app/pt/blog)
-Ten articles at the intersection of philosophy, AI engineering, and Brazilian public policy. Speaker at UaiSINT 2025.
+Ten articles on philosophy, AI engineering, and Brazilian public policy.
+
+---
+
+## GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anderson-ufrj&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ufrj&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
 
 ---
 
 ## Links
 
-[Website](https://neuralthinkers.up.railway.app) | [Blog](https://neuralthinkers.up.railway.app/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | andersonhs27@gmail.com
+[Website](https://neuralthinkers.up.railway.app) | [Blog](https://neuralthinkers.up.railway.app/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | [Email](mailto:andersonhs27@gmail.com)
 
 Minas Gerais, Brazil -- GMT-3 -- Available for remote work.

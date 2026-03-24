@@ -26,9 +26,9 @@ INPI Registration: BR512025004322-8 | Thesis grade: 10/10
 
 [API Docs](https://cidadao-api-production.up.railway.app/docs)
 
-### [NTS Lab](https://neuralthinkers.up.railway.app) -- Multi-Product Monorepo
+### [NTS Lab](https://www.ntlabs.dev) -- Multi-Product Monorepo
 
-A Turborepo monorepo running four subsidiary systems across 10 Railway services: **Hipócrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 322+ API endpoints, 12 shared TypeScript packages, and a Python SDK published on PyPI (`ntlabs`). The point isn't four products -- it's one architecture that generalizes across healthcare, legal, and municipal domains.
+A Turborepo monorepo with four vertical products in active development across 10 Railway services: **Hipócrates** (medical AI -- transcription, SOAP notes, OCR), **Mercurius** (multi-tenant notary management), **Polis** (municipal health), and **Argos** (law firm management). 12 shared TypeScript packages and a Python SDK on PyPI (`ntlabs`). The point isn't four products -- it's one architecture that generalizes across healthcare, legal, and municipal domains.
 
 `Next.js 15` `TypeScript` `Turborepo` `Supabase` `Tailwind` `Docker`
 
@@ -37,8 +37,8 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 ## Open Source Contributions
 
 - **[langchain-maritaca](https://pypi.org/project/langchain-maritaca/)** -- First LangChain integration for Maritaca AI (Brazilian LLM). Published on PyPI.
-- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Proposed tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
-- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Proposed cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960)
+- **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Submitted tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
+- **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Submitted cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960)
 - **[mcp-brasil](https://github.com/anderson-ufrj/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
 
 ---
@@ -52,7 +52,7 @@ A Turborepo monorepo running four subsidiary systems across 10 Railway services:
 2. [*The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming*](https://doi.org/10.5281/zenodo.18111064)
 3. [*From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts*](https://doi.org/10.5281/zenodo.18012186)
 
-**Blog** -- [neuralthinkers.up.railway.app/pt/blog](https://neuralthinkers.up.railway.app/pt/blog)
+**Blog** -- [www.ntlabs.dev/pt/blog](https://www.ntlabs.dev/pt/blog)
 Ten articles on philosophy, AI engineering, and Brazilian public policy.
 
 ---
@@ -68,6 +68,6 @@ Ten articles on philosophy, AI engineering, and Brazilian public policy.
 
 ## Links
 
-[Website](https://neuralthinkers.up.railway.app) | [Blog](https://neuralthinkers.up.railway.app/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | [Email](mailto:andersonhs27@gmail.com)
+[Website](https://www.ntlabs.dev) | [Blog](https://www.ntlabs.dev/pt/blog) | [LinkedIn](https://linkedin.com/in/anderson-h-silva95/) | [HuggingFace](https://huggingface.co/neural-thinker) | [Email](mailto:andersonhs27@gmail.com)
 
 Minas Gerais, Brazil.

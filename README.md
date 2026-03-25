@@ -47,7 +47,10 @@ A Turborepo monorepo with four vertical products in active development across 10
 
 **Speaker at UaiSINT 2025**
 
-**Papers** (Zenodo, 2025)
+**Peer-Reviewed**
+1. DA SILVA, A.H.; FASSBINDER, A.G.O. *Cidadão.AI: Uma Proposta de Sistema Multiagente para Democratização da Transparência Governamental.* Accepted at **SBSI 2026** (VIII CTDG-SI), SBC.
+
+**Preprints** (Zenodo, 2025)
 1. [*Cidadão.AI: Sistema Multi-Agente de IA para Democratização do Acesso a Dados de Transparência Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)
 2. [*The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming*](https://doi.org/10.5281/zenodo.18111064)
 3. [*From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts*](https://doi.org/10.5281/zenodo.18012186)

@@ -48,7 +48,7 @@ A Turborepo monorepo with four vertical products in active development across 10
 **Speaker at UaiSINT 2025**
 
 **Peer-Reviewed**
-1. DA SILVA, A.H.; FASSBINDER, A.G.O. *Cidadão.AI: Uma Proposta de Sistema Multiagente para Democratização da Transparência Governamental.* Accepted at **SBSI 2026** (VIII CTDG-SI), SBC.
+1. DA SILVA, A.H.; FASSBINDER, A.G.O. [*Cidadão.AI: Uma Proposta de Sistema Multiagente para Democratização da Transparência Governamental.*](https://doi.org/10.5753/sbsi_estendido.2026.249058) In **Anais Estendidos do XXII Simpósio Brasileiro de Sistemas de Informação (SBSI 2026)** — Concurso de Teses, Dissertações e TCCs em SI (CTDG-SI), p. 48–57. SBC, Vitória/ES, May 2026. DOI: [10.5753/sbsi_estendido.2026.249058](https://doi.org/10.5753/sbsi_estendido.2026.249058).
 
 **Preprints** (Zenodo, 2025)
 1. [*Cidadão.AI: Sistema Multi-Agente de IA para Democratização do Acesso a Dados de Transparência Governamental Brasileira*](https://doi.org/10.5281/zenodo.18550749)

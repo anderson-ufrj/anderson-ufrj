@@ -39,7 +39,7 @@ A Turborepo monorepo with four vertical products in active development across 10
 - **[langchain-maritaca](https://pypi.org/project/langchain-maritaca/)** -- First LangChain integration for Maritaca AI (Brazilian LLM). Published on PyPI.
 - **[DSPy](https://github.com/stanfordnlp/dspy)** (Stanford) -- Submitted tutorial: "Building Multi-Agent Systems with Cultural Personalities." [PR #9124](https://github.com/stanfordnlp/dspy/pull/9124)
 - **[Instructor](https://github.com/jxnl/instructor)** (jxnl) -- Submitted cache observability hooks (CACHE_HIT/CACHE_MISS). [PR #1960](https://github.com/jxnl/instructor/pull/1960)
-- **[mcp-brasil](https://github.com/anderson-ufrj/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
+- **[mcp-brasil](https://github.com/anderson-ntlabs/mcp-brasil)** -- MCP server in Go for Brazilian government transparency APIs.
 
 ---
 
@@ -63,8 +63,8 @@ Ten articles on philosophy, AI engineering, and Brazilian public policy.
 ## GitHub
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anderson-ufrj&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ufrj&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anderson-ntlabs&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-ntlabs&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
 
 ---
